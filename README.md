@@ -1,11 +1,11 @@
 # Hi there ✌️
 <p align="center">
 
-My name is Nilton and I'm from Brazil but actually I'm living in Spain. :bowtie: 
+My name is Nilton and I'm from Brazil but I'm currently living in Spain. :bowtie: 
 
-I'm currently studying to be a full-stack developer and I'm focousing in learn Java for Back End and React for Front End web apps. 🎓
+Nowadays I'm studying to be a full-stack developer and I'm focusing in learn Java for Back End and React for Front End web apps. 🎓
 
-:point_right: I love to learn and study by myself and also colaborate with other people to share knowledge. 🤝
+:point_right: I love to learn and study by myself and also collaborate with other people to share knowledge. 🤝
 </p>
 
 <br />
@@ -14,6 +14,12 @@ I'm currently studying to be a full-stack developer and I'm focousing in learn J
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonsjr&show_icons=true&theme=tokyonight" />
 </p>
 
+
+**Find me in Linkedin:**      [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilton-da-silva-junior-53bb321a3/)](https://www.linkedin.com/in/nilton-da-silva-junior-53bb321a3/) 
+
+
+
 Regards. 👋
 
 
+ 
