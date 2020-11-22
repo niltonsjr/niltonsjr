@@ -1,9 +1,9 @@
 # Hi there ✌️
 <p align="center">
 
-My name is Nilton and I'm from Brazil but I'm currently living in Spain. :bowtie: 
+My name is Nilton and I'm from Brazil but I'm currently living in Spain. 
 
-Nowadays I'm studying to be a full-stack developer and I'm focusing in learn Java for Back End and React for Front End web apps. 🎓
+I'm studying to be a full-stack developer and I'm focusing on learn Java for Back End and React for Front End web apps. 🎓
 
 :point_right: I love to learn and study by myself and also collaborate with other people to share knowledge. 🤝
 </p>
